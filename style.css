@@ -1,0 +1,10 @@
+.navbar-a:hover{
+    background-color: rgb(180, 58, 58);
+    border: 1px solid red;
+}
+.carousel-caption{
+    bottom: 30%;
+}
+.carousel-item img{
+     opacity: 0.7;
+}
