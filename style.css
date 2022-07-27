@@ -1,6 +1,6 @@
 .navbar-a:hover{
-    background-color: rgb(180, 58, 58);
-    border: 1px solid red;
+    background-color: rgb(1, 213, 255);
+    border: 1px solid rgb(0, 0, 0);
 }
 .carousel-caption{
     bottom: 30%;
