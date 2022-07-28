@@ -1,10 +1,15 @@
 .navbar-a:hover{
     background-color: rgb(1, 213, 255);
     border: 1px solid rgb(0, 0, 0);
+    
 }
 .carousel-caption{
     bottom: 30%;
 }
 .carousel-item img{
      opacity: 0.7;
+}
+.register-btn{
+    text-decoration: none;
+    color: white;
 }
